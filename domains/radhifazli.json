@@ -1,0 +1,12 @@
+{
+    "description": "Using this domain for my personal portfolio, and this is my school project too",
+    "repo": "https://github.com/radhifazl/radhifazl.github.io",
+    "owner": {
+        "username": "radhifazl",
+        "email": "radhifazlinurfahriza@gmail.com",
+        "twitter": "radhifazli"
+    },
+    "record": {
+        "CNAME": "radhifazl.github.io"
+    }
+} 
